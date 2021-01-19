@@ -3,5 +3,7 @@
 
 
 <br>
+<a href="classpai://meeting/join?id=12345"><span style="color:green;font-size:30">enter class pi</span></a>
 
-<a href="classpai://meeting/join?id=12345"><span style="color:green;font-size:20">加入会议</span></a>
+<br>
+<a href="https://lwf2001.lewei.site/join"><span style="color:green;font-size:30">app links</span></a>
